@@ -22,7 +22,7 @@ function Sidebar(){
                         <Link to="/analytics" className="block p-3 rounded hover:bg-slate-700">Analytics</Link>
                     </li>
                     <li>
-                        <Link to="/explainability" className="block p-3 rounded hover:bg-slate-700">Explainability</Link>
+                        <Link to="/shap" className="block p-3 rounded hover:bg-slate-700">Explainability</Link>
                     </li>
                     <li>
                         <Link to="/operators" className="block p-3 rounded hover:bg-slate-700">Operators</Link>
