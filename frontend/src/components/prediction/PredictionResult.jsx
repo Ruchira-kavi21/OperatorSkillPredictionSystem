@@ -5,7 +5,7 @@ import ShapExplanation from "./ShapExplanation";
 function PredictionResult({ result }) {
   if (!result) {
     return (
-      <div className="bg-white rounded-2xl shadow-lg border border-slate-200 p-8 flex flex-col items-center justify-center min-h-[760px]">
+      <div className="bg-white rounded-2xl shadow-lg border border-slate-200 p-8 flex flex-col items-center justify-center min-h-190">
         <div className="w-28 h-28 rounded-full bg-indigo-100 flex items-center justify-center">
           <FaBrain className="text-5xl text-indigo-600" />
         </div>

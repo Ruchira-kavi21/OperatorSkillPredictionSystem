@@ -196,7 +196,7 @@ function History() {
                       {item.style}
                     </td>
 
-                    <td className="px-6 py-5 text-sm text-slate-600 min-w-[250px]">
+                    <td className="px-6 py-5 text-sm text-slate-600 min-w-62.5">
                       {item.operation}
                     </td>
 
